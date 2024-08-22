@@ -1,3 +1,9 @@
+Bem vindos ao meu projeto de automações no funil de vendas, aqui estou apresentando as soluções que eu enxerguei como necessárias, para uma automação do funil de vendas, seguindo regras de negócios bem detalhadas.
+
+Para os bloqueios necessários no funil de vendas, utilizei uma Trigger em Apex.
+
+Para as aprovações necessárias, foi utilizado o processo de aprovação do Salesforce.
+
 # Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
